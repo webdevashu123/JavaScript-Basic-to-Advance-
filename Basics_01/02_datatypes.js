@@ -12,7 +12,7 @@ let age = 24
 let isLoggedIn = false
 
 
-//******************** Premitive datatypes ***************************
+//******************** Primitive datatypes ***************************
 //number => 2 to power 53
 //bigint
 
