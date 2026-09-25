@@ -1,7 +1,7 @@
 const accountId = 1454547
 let accountEmail = "ashutosh@google.com"
 var  accountPassword = "12435"
-accountCity = "Delhi"// this is possible , but don't use it
+accountCity = "Delhi"// this is possible,but don't use it
 
 let accountState ;
 
